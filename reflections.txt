@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  I learned what the <sup> (suprscript) element does and also the importance of checking your work.  
+* What has been easy?
+  The entire mockup project was relatively easy because I have some experience with creating a webpage while using a mockup as a reference. 
+* What has been difficult?
+ Nothing was difficult.   
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+ 
+The MDN reference site was very helpful with my research of unfamiliar elements. 
